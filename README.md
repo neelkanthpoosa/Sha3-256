@@ -3,4 +3,4 @@ Sha3-256 Algorithm Implementation and Interface to check Hash/Salted-Hash for th
 
 ### Analyzed step-mapping functions and permutations of block size. 
 
-###### Referenced substansial portions from https://www.movable-type.co.uk/scripts/sha3.html
+###### Referenced substantial portions from https://www.movable-type.co.uk/scripts/sha3.html
